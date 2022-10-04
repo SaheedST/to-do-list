@@ -1,0 +1,22 @@
+.item-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1rem 5rem;
+  padding: 0.1rem 1rem;
+  align-items: center;
+  color: #fbfbf4;
+  background-color: #353239;
+}
+
+.item-container h5 {
+    font-weight: lighter;
+    cursor: pointer;
+}
+
+.item {
+    display: flex;
+}
+
+.item label {
+    margin-left: 0.25rem;
+}
